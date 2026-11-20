@@ -50,8 +50,8 @@ queda registrado en el reporte HTML de Karate.
   prueba_tecnica-ejercicio_2/
   |-- pom.xml                          Dependencias y configuracion de Maven
   |-- mvnw / mvnw.cmd / .mvn/          Maven Wrapper
-  |-- readme.txt                       Este archivo
-  |-- conclusiones.txt                 Hallazgos y conclusiones
+  |-- readme.txt / README.md           Este archivo (texto plano / Markdown)
+  |-- conclusiones.txt / CONCLUSIONES.md  Hallazgos y conclusiones
   |-- reports/                         Evidencia de una ejecucion real
   |   |-- karate-reports/              Reporte HTML de Karate (abrir karate-summary.html)
   |   |-- karate.log                   Log completo con requests y responses
